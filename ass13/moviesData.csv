@@ -1,0 +1,51 @@
+title,genre,year,runtime,critics_score,audience_score,director,budget_millions,box_office_millions
+The Shawshank Redemption,Drama,1994,142,91,98,Frank Darabont,25,58.3
+The Godfather,Crime,1972,175,97,98,Francis Ford Coppola,6,246.1
+The Dark Knight,Action,2008,152,94,94,Christopher Nolan,185,1005.0
+Pulp Fiction,Crime,1994,154,92,96,Quentin Tarantino,8,213.9
+Forrest Gump,Drama,1994,142,71,95,Robert Zemeckis,55,678.2
+Inception,Sci-Fi,2010,148,87,91,Christopher Nolan,160,836.8
+Fight Club,Drama,1999,139,79,96,David Fincher,63,101.2
+The Matrix,Sci-Fi,1999,136,88,85,Lana Wachowski,63,463.5
+Goodfellas,Crime,1990,145,96,97,Martin Scorsese,25,46.8
+The Empire Strikes Back,Sci-Fi,1980,124,94,97,Irvin Kershner,18,538.4
+Interstellar,Sci-Fi,2014,169,72,86,Christopher Nolan,165,677.5
+The Silence of the Lambs,Thriller,1991,118,95,95,Jonathan Demme,19,272.7
+Saving Private Ryan,War,1998,169,93,95,Steven Spielberg,70,482.3
+The Green Mile,Drama,1999,189,80,95,Frank Darabont,60,286.8
+Parasite,Thriller,2019,132,98,93,Bong Joon-ho,11,258.8
+The Prestige,Mystery,2006,130,76,92,Christopher Nolan,40,109.7
+The Departed,Crime,2006,151,90,94,Martin Scorsese,90,291.5
+Gladiator,Action,2000,155,76,87,Ridley Scott,103,460.5
+The Lion King,Animation,1994,88,93,88,Roger Allers,45,968.5
+The Usual Suspects,Crime,1995,106,89,94,Bryan Singer,6,34.7
+Avengers Endgame,Action,2019,181,94,90,Russo Brothers,356,2798.0
+Spider-Man No Way Home,Action,2021,148,93,98,Jon Watts,200,1921.8
+Dune,Sci-Fi,2021,155,83,90,Denis Villeneuve,165,400.7
+Everything Everywhere All At Once,Sci-Fi,2022,139,95,89,Daniel Kwan,25,140.9
+Top Gun Maverick,Action,2022,131,96,99,Joseph Kosinski,170,1489.0
+The Batman,Action,2022,176,85,87,Matt Reeves,200,770.8
+Avatar,Sci-Fi,2009,162,82,82,James Cameron,237,2923.7
+Avatar The Way of Water,Sci-Fi,2022,192,76,92,James Cameron,350,2320.3
+Titanic,Romance,1997,194,88,69,James Cameron,200,2257.8
+Jurassic Park,Adventure,1993,127,91,91,Steven Spielberg,63,1034.0
+Jaws,Thriller,1975,124,97,90,Steven Spielberg,9,470.7
+E.T. the Extra-Terrestrial,Sci-Fi,1982,115,98,72,Steven Spielberg,10.5,792.9
+Raiders of the Lost Ark,Adventure,1981,115,96,95,Steven Spielberg,20,389.9
+Schindler's List,Drama,1993,195,98,95,Steven Spielberg,22,322.2
+Back to the Future,Sci-Fi,1985,116,96,94,Robert Zemeckis,19,388.8
+The Terminator,Sci-Fi,1984,107,100,89,James Cameron,6.4,78.4
+Terminator 2 Judgment Day,Sci-Fi,1991,137,93,95,James Cameron,102,520.9
+Aliens,Sci-Fi,1986,137,98,94,James Cameron,18,131.1
+Blade Runner,Sci-Fi,1982,117,89,91,Ridley Scott,28,41.8
+The Truman Show,Drama,1998,103,94,89,Peter Weir,60,264.1
+Cast Away,Drama,2000,143,89,80,Robert Zemeckis,90,429.6
+A Beautiful Mind,Drama,2001,135,75,86,Ron Howard,58,316.8
+The Grand Budapest Hotel,Comedy,2014,99,92,86,Wes Anderson,25,174.6
+Moonlight,Drama,2016,111,98,79,Barry Jenkins,1.5,65.3
+La La Land,Musical,2016,128,91,81,Damien Chazelle,30,447.4
+Whiplash,Drama,2014,106,94,96,Damien Chazelle,3.3,50.4
+Mad Max Fury Road,Action,2015,120,97,88,George Miller,150,378.9
+The Social Network,Drama,2010,120,96,92,David Fincher,40,224.9
+12 Years a Slave,Drama,2013,134,96,86,Steve McQueen,20,187.7
+Joker,Drama,2019,122,68,88,Todd Phillips,55,1074.3
